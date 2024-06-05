@@ -24,17 +24,17 @@ I am a passionate web developer with a keen interest in creating user-friendly a
 
 ### Project 1: Automatic Temperature Based Fan Speed Controller using Arduino
 
-- Description: |E-commerce platform where any one can add , sell or buy product.
+- Description: Fan speed controls based on temperature. We set the temperature, and when it's high or low, the fan rotates accordingly. When the temperature is lower than the minimum set temperature, it stops rotating.
 - Technologies Used: arduino, hardware components.
 
 ### Project 2: Emotional Analysis of Tweets
 
-- Description: platform for innovator in University of Rwanda corraborate to turn their idea into productivity.
+- Description: Analyzed and classified tweets into positive, negative and neutral using the machine learning algorithms, and python libraries.
 - Technologies Used: nlp, machine learing-python.
 
 ### Project 3: Live Telecasting Robo
 
-- Description: website to show all information about team bakame coder paasionate team in word of technology.
+- Description: Designed a Survillence Robo Car which will control using mobile and attached ESP-32cam to view live streaming.
 - Technologies Used: html, hardware components, ESP32cam.
 
 
