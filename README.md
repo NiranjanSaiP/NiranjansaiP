@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/NiranjanSaiP/NiranjansaiP/Assets/chill-mario-pixel-moewalls-com.gif" width="900px" alt="chill-mario-pixel-moewalls-com">
+    <img src="https://raw.githubusercontent.com/NiranjanSaiP/NiranjansaiP/Assets/chill-mario-pixel-moewalls-com.gif" width="1000px" alt="chill-mario-pixel-moewalls-com">
 </p>
 
 <h1  align="center">Holaa... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Niranjan Sai</h1>
